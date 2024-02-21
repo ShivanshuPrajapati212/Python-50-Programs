@@ -17,3 +17,4 @@ while True:
 
         except:
             print("Number Dalna Tha.")
+            print("Number Dalna Tha.")
